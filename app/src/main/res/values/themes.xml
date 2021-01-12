@@ -9,6 +9,8 @@
         <item name="colorSecondary">@color/BZ4</item>
         <item name="colorSecondaryVariant">@color/BZ3</item>
         <item name="colorOnSecondary">@color/white</item>
+<!--        Jenis Font yang digunakan-->
+        <item name="android:typeface">sans</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->

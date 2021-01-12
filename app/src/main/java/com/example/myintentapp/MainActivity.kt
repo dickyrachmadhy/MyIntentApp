@@ -50,7 +50,12 @@ class MainActivity : AppCompatActivity(){
             startActivity(moveWithObjectIntent)
         }
 
-        supportActionBar?.title = "Menu Belajar"
+        btn_custom_view.setOnClickListener{
+            val moveCustomView = Intent(this@MainActivity, ViewModelActivity::class.java)
+            startActivity(moveCustomView)
+        }
+
+        supportActionBar?.title = "Menu Module Belajar"
 
     }
 

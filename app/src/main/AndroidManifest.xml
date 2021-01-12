@@ -9,9 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyIntentApp">
-        <activity android:name=".MoveWithObject"/>
+        <activity android:name=".ViewModelActivity"></activity>
+        <activity android:name=".MyViewModelActivity" />
+        <activity android:name=".MoveWithObject" />
         <activity android:name=".MyRecyclerView" />
-        <activity android:name=".MoveWithDataActivity"/>
+        <activity android:name=".MoveWithDataActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
