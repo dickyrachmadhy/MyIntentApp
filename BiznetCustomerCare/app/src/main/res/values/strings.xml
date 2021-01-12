@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Biznet Customer Care</string>
+    <string name="list_agent_customer_care">List Agent Customer Care</string>
+    <string name="nama_agent">Nama Agent</string>
+    <string name="email">Email</string>
+    <string name="no_tlp">Nomor Telepon</string>
+    <string name="btnshare">share Contact</string>
+
+
+    // DATA AGENT CUSTOMER CARE
+    <string-array name="data_name">
+        <item>Ahmad Farhan</item>
+        <item>Anesia Kinanti</item>
+        <item>Ardiansyah</item>
+        <item>Daniel Belsaber</item>
+        <item>Dede Suhendar</item>
+        <item>Dicky Rachmadi</item>
+        <item>Fatma Rini Astuti</item>
+        <item>Imam Choirudin</item>
+        <item>M Abdul Alim Alami</item>
+        <item>Usep Sutrisna</item>
+    </string-array>
+
+    <string-array name="data_email">
+        <item>ahmad_farhan@biznetnetworks.com</item>
+        <item>anesia_kinanti@biznetnetworks.com</item>
+        <item>ardiansyah@biznetnetworks.com</item>
+        <item>daniel_belsaber@biznetnetworks.com</item>
+        <item>dede_suhendar@biznetnetworks.com</item>
+        <item>dicky_rachmadi@biznetnetworks.com</item>
+        <item>fatma_astuti@biznetnetworks.com</item>
+        <item>imam_choirudin@biznetnetworks.com</item>
+        <item>abdul_alami@biznetnetworks.com</item>
+        <item>usep_sutrisna@biznetnetworks.com</item>
+    </string-array>
+
+    <string-array name="data_no_tlp">
+        <item>085218239095</item>
+        <item>085711339357</item>
+        <item>087878200650</item>
+        <item>082118853826</item>
+        <item>081586539018</item>
+        <item>087775760360</item>
+        <item>083872272716</item>
+        <item>08989658783</item>
+        <item>085743408120</item>
+        <item>08979666331</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/photo_ahmad_farhan</item>
+        <item>@drawable/photo_anesia_kinanti</item>
+        <item>@drawable/photo_ardiansyah</item>
+        <item>@drawable/photo_daniel_belsaber</item>
+        <item>@drawable/photo_dede_suhendar</item>
+        <item>@drawable/photo_2</item>
+        <item>@drawable/photo_fatma_astuti</item>
+        <item>@drawable/photo_imam_choirudin</item>
+        <item>@drawable/photo_abdul_alami</item>
+        <item>@drawable/photo_usep_sutrisna</item>
+    </string-array>
+
+</resources>
